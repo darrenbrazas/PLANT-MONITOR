@@ -32,7 +32,11 @@ This personal project is an Arduino based Plant Monitoring System that tracks ke
 
 - **Software:**
   - Arduino IDE
-  - Ada
+  - Adafruit_SSD1306 Library
+  - Adafruit_GFX library
   - Servo Library
+  - Wire Library
+  - BH1750 Library
+  - DHT Library
 
 ## Demo/Images
