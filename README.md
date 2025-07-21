@@ -30,6 +30,19 @@ This personal project is an Arduino based Plant Monitoring System that tracks ke
   - Wires and breadboard
   - Soldering wire and iron
 
+- **Wiring:**
+- | **Component**          | **Arduino Pin**    |
+| ---------------------- | ------------------ |
+| DHT11 Sensor           | Digital Pin 2      |
+| BH1750 Light Sensor    | A4 (SDA), A5 (SCL) |
+| Soil Moisture Sensor   | Analog Pin A0      |
+| OLED Display (SSD1306) | A4 (SDA), A5 (SCL) | 
+| DHT11 VCC & GND        | 5V, GND            |
+| BH1750 VCC & GND       | 3.3V or 5V, GND    |
+| Soil Sensor VCC & GND  | 5V, GND            | 
+| OLED VCC & GND         | 3.3V or 5V, GND    |
+
+
 - **Software:**
   - Arduino IDE
   - Adafruit_SSD1306 Library
