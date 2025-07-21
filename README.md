@@ -31,8 +31,9 @@ This personal project is an Arduino based Plant Monitoring System that tracks ke
   - Soldering wire and iron
 
 - **Wiring:**
+
 | **Component**          | **Arduino Pin**    |
-| ---------------------- | ------------------ |
+|----------------------|------------------|
 | DHT11 Sensor           | Digital Pin 2      |
 | BH1750 Light Sensor    | A4 (SDA), A5 (SCL) |
 | Soil Moisture Sensor   | Analog Pin A0      |
