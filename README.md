@@ -34,9 +34,9 @@ This personal project is an Arduino based Plant Monitoring System that tracks ke
 
 | **Component**          | **Arduino Pin**    |
 |----------------------|------------------|
-| DHT11 Sensor           | Digital Pin 2      |
+| DHT11 Sensor           | D2                 |
 | BH1750 Light Sensor    | A4 (SDA), A5 (SCL) |
-| Soil Moisture Sensor   | Analog Pin A0      |
+| Soil Moisture Sensor   | A0                 |
 | OLED Display (SSD1306) | A4 (SDA), A5 (SCL) | 
 | DHT11 VCC & GND        | 5V, GND            |
 | BH1750 VCC & GND       | 5V, GND            |
