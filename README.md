@@ -39,9 +39,9 @@ This personal project is an Arduino based Plant Monitoring System that tracks ke
 | Soil Moisture Sensor   | Analog Pin A0      |
 | OLED Display (SSD1306) | A4 (SDA), A5 (SCL) | 
 | DHT11 VCC & GND        | 5V, GND            |
-| BH1750 VCC & GND       | 3.3V or 5V, GND    |
+| BH1750 VCC & GND       | 5V, GND            |
 | Soil Sensor VCC & GND  | 5V, GND            | 
-| OLED VCC & GND         | 3.3V or 5V, GND    |
+| OLED VCC & GND         | 3.3V, GND          |
 
 
 - **Software:**
