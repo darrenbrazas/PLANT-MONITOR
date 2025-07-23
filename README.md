@@ -56,3 +56,5 @@ This personal project is an Arduino based Plant Monitoring System that tracks ke
 ## Demo/Images
 ![topview](https://github.com/user-attachments/assets/aa45bd5d-496b-4530-bc83-8f7f1ac887b4)
 ![readings](https://github.com/user-attachments/assets/9d0a2c4e-7409-45fc-96ea-58760fcd8b52)
+![IMG_8761](https://github.com/user-attachments/assets/3764f8fe-4685-4a02-b062-9967f9d1ed1f)
+![IMG_8762](https://github.com/user-attachments/assets/81a8286c-e9d7-4eb2-bcc9-d9d7c6523574)
