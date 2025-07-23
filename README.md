@@ -54,3 +54,5 @@ This personal project is an Arduino based Plant Monitoring System that tracks ke
   - DHT Library
 
 ## Demo/Images
+![topview](https://github.com/user-attachments/assets/aa45bd5d-496b-4530-bc83-8f7f1ac887b4)
+![readings](https://github.com/user-attachments/assets/9d0a2c4e-7409-45fc-96ea-58760fcd8b52)
